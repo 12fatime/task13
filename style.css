@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: white;
+}
+
+
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 8px;
+
+}
+.navbar ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 30px;
+    color: blue;
+}
+.two{
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.two h1{
+    color: white;
+    font-weight: bold;
+    width: 300px;
+    padding: 60px 200px;
+    font-size: 50px;
+}
+.two u{
+    color: rgb(124, 124, 236);
+}
+.buttons button{
+    width: 150px;
+    height: 40px;
+    margin-right: 100px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.third{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.third h3{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    width: 100px;
+}
+.third p{
+    color: black;
+    width: 500px;
+}
+.four{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.four p{
+    width: 400px;
+}
+.shekil img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.five{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.five h3{
+    color: black;
+    font-weight: bold;
+    width: 400px;
+    padding: 10px;
+}
+.five p{
+    color: rgb(46, 44, 44);
+    font-weight: bold;
+    width: 400px;
+}
+.six{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.six h3{
+    color: black;
+    font-weight: bold;
+    width: 400px;
+    padding: 10px;
+}
+.six p{
+    color: rgb(46, 44, 44);
+    font-weight: bold;
+    width: 400px; 
+}
+.seven{
+    width: 100%;
+    height: 150px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.seven p{
+    width: 300px;
+}
+.eight{
+    width: 100%;
+    height: 200px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+}
+.eight .box{
+    width: 400px;
+    height: 150px;
+    background-color: white;
+}
+.nine{
+    width: 100%;
+    height: 200px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.nine .box{
+    width: 400px;
+    height: 150px;
+    background-color: white;
+}
+.ten{
+    width: 100%;
+    height: 200px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.ten .box{
+    width: 400px;
+    height: 150px;
+    background-color: white;
+}
+.eleven{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.eleven h1{
+    color: white;
+}
+.eleven p{
+    color: white;
+}
+.twelve{
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.twelve div{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(66, 66, 139);
+}
+.twelve i{
+    font-size: 30px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.twelve h5{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.twelve p{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+.twelve a{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thirteen{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+.thirteen h1{
+    color: white;
+}
+.thirteen p{
+    color: white;
+}
